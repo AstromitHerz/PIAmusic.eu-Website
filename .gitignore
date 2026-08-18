@@ -1,0 +1,16 @@
+# Interne Arbeits-/Systemdateien, nicht für das Live-Repo
+.claude/
+node_modules/
+originals-fullres/
+desktop.ini
+package.json
+package-lock.json
+
+# Ungenutzte Original-Fotos (nicht auf der Seite verlinkt)
+details-24.jpg
+details-60.jpg
+details-8.jpg
+
+# Interne Arbeitswerkzeuge (nicht Teil der Live-Seite)
+schrift-vergleich.html
+schrift-vergleich-text.html
